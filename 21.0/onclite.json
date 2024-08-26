@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1724011657",
+      "filename": "lineage-21.0-20240818-UNOFFICIAL-onclite.zip",
+      "id": "08c558fc5ae4769c1514fdfb0ff15f625d597f60852385d8c0dd7fa72eacc83a",
+      "romtype": "UNOFFICIAL",
+      "size": "1100642102",
+      "url": "https://github.com/android-build-system/OTA/releases/download/onclite_lineage-21.0_1724011657/lineage-21.0-20240818-UNOFFICIAL-onclite.zip",
+      "version": "21.0"
+    }
+  ]
+}
