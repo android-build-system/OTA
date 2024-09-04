@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1725285245",
-      "filename": "lineage-21.0-20240902-UNOFFICIAL-onclite-signed.zip",
-      "id": "89c4283633a998a09d215b89c011c488514bd296c9512ea7d3538bba48a3dad6",
+      "datetime": "1725448245",
+      "filename": "lineage-21.0-20240904-UNOFFICIAL-onclite-signed.zip",
+      "id": "3880c6c9545e7b99b13b5dc7f9b606585e243bb54ca357d375c206ad583bdb14",
       "romtype": "UNOFFICIAL",
-      "size": "1100294058",
-      "url": "https://github.com/android-build-system/OTA/releases/download/onclite_lineage-21.0_1725285245/lineage-21.0-20240902-UNOFFICIAL-onclite-signed.zip",
+      "size": "1100156397",
+      "url": "https://github.com/android-build-system/OTA/releases/download/onclite_lineage-21.0_1725448245/lineage-21.0-20240904-UNOFFICIAL-onclite-signed.zip",
       "version": "21.0"
     }
   ]
